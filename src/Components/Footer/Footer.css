@@ -1,0 +1,52 @@
+.footer {
+    padding: 24px;
+    /* height: 150px; */
+    background: linear-gradient(0deg, #001d37f0, rgba(0, 29, 55, 0.94)), url('../../assets/hero_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+@media (min-width: 900px) {
+    .footer {
+        padding: 64px;
+    }    
+}
+
+.footer__container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.footer__logo {
+    width: 90px;
+}
+
+.get__quote {
+    width: 80px;
+    font-size: .7em;
+    background-color: #18a1b5;
+    border: none;
+}
+
+h5 {
+    color: white;
+    font-size: .6em;
+    width: 80%;
+}
+
+.MuiSvgIcon-root {
+    color: white;
+    padding: 16px;
+}
+
+.socials {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 24px;
+}
