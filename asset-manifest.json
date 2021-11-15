@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/famkura/static/css/main.72b6723a.chunk.css",
+    "main.js": "/famkura/static/js/main.bcfb5481.chunk.js",
+    "main.js.map": "/famkura/static/js/main.bcfb5481.chunk.js.map",
+    "runtime-main.js": "/famkura/static/js/runtime-main.c7883fd9.js",
+    "runtime-main.js.map": "/famkura/static/js/runtime-main.c7883fd9.js.map",
+    "static/css/2.679831fc.chunk.css": "/famkura/static/css/2.679831fc.chunk.css",
+    "static/js/2.51f71293.chunk.js": "/famkura/static/js/2.51f71293.chunk.js",
+    "static/js/2.51f71293.chunk.js.map": "/famkura/static/js/2.51f71293.chunk.js.map",
+    "static/js/3.a0cbfdce.chunk.js": "/famkura/static/js/3.a0cbfdce.chunk.js",
+    "static/js/3.a0cbfdce.chunk.js.map": "/famkura/static/js/3.a0cbfdce.chunk.js.map",
+    "index.html": "/famkura/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/famkura/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.72b6723a.chunk.css.map": "/famkura/static/css/main.72b6723a.chunk.css.map",
+    "static/js/2.51f71293.chunk.js.LICENSE.txt": "/famkura/static/js/2.51f71293.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/famkura/static/media/about__bg.dceedc3d.jpg",
+    "static/media/arrow.8d33a671.svg": "/famkura/static/media/arrow.8d33a671.svg",
+    "static/media/Contact.css": "/famkura/static/media/contact__bg.77a5e04e.jpg",
+    "static/media/dots.89398521.svg": "/famkura/static/media/dots.89398521.svg",
+    "static/media/footer_logo.92fc8a77.png": "/famkura/static/media/footer_logo.92fc8a77.png",
+    "static/media/Footer.css": "/famkura/static/media/hero_bg.a5738dd3.jpg",
+    "static/media/rings_bg.7ae0019f.svg": "/famkura/static/media/rings_bg.7ae0019f.svg",
+    "static/media/w2.1975e4f1.jpg": "/famkura/static/media/w2.1975e4f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7883fd9.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.51f71293.chunk.js",
+    "static/css/main.72b6723a.chunk.css",
+    "static/js/main.bcfb5481.chunk.js"
+  ]
+}
